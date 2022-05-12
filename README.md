@@ -2,7 +2,7 @@
 This resource currently contains 26,702 metonymy instances of 189 languages across 24 metonymy patterns. The paper link is here. https://psyarxiv.com/f6yjt/
 
 ## World’s languages in UniMet
-The presence of metonymy in world’s languages (the same colors indicate the same family
+The presence of metonymy in world’s languages (the same colors indicate the same family)
 ![image](https://user-images.githubusercontent.com/50955407/168028498-49774a24-6210-4f45-adce-01c546a507c9.png)
 
 ## Data descriptions
