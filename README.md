@@ -1,5 +1,5 @@
 # UniMet: Universal Metonymy
-This resource currently contains 26,702 metonymy instances of 189 languages across 24 metonymy patterns.
+This resource currently contains 26,702 metonymy instances of 189 languages across 24 metonymy patterns. The paper link is here. https://psyarxiv.com/f6yjt/
 
 ## World’s languages in UniMet
 The presence of metonymy in world’s languages (the same colors indicate the same family
@@ -31,7 +31,7 @@ The presence of metonymy in world’s languages (the same colors indicate the sa
  title={Metonymy as a Universal Cognitive Phenomenon: Evidence from Multilingual Lexicons},
  url={psyarxiv.com/f6yjt},
  DOI={10.31234/osf.io/f6yjt},
- publisher={PsyArXiv},
+ publisher={CogSci 2022},
  author={Khishigsuren, Temuulen and Bella, Gábor and Brochhagen, Thomas and Marav, Daariimaa and Giunchiglia, Fausto and Batsuren, Khuyagbaatar},
  year={2022},
  month={May}
