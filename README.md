@@ -37,3 +37,6 @@ The presence of metonymy in world’s languages (the same colors indicate the sa
  month={May}
 }
 ```
+## License
+
+This resource is available under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. Read more about this license from https://creativecommons.org/licenses/by-nc-sa/4.0/.
