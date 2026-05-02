@@ -10,20 +10,23 @@ The presence of metonymy in world’s languages (the same colors indicate the sa
 | #  | column         | description                         |
 |----|----------------|-------------------------------------|
 | 1  | index          | metonymy instance index             |
-| 2  | language       | language ISO-3 code                 |
-| 3  | family         | language family                     |
-| 4  | genus          | language genus                      |
-| 5  | src_domain     | source domain                       |
-| 6  | trg_domain     | target domain                       |
-| 7  | form           | metonymy form                       |
-| 8  | type           | metonymy type                       |
-| 9  | concept_a      | the source concept's wordnet 3.0 id |
-| 10 | concept_b      | the target concept's wordnet 3.0 id |
-| 11 | description_a  | description of the source concept   |
-| 12 | description_b  | description of the target concept   |
-| 13 | english_word_a | English words of the source concept |
-| 14 | english_word_b | English words of the target concept |
-| 15 | glotcode       | language's glottolog code           |
+| 2  | language       | Glottolog language name                     |
+| 3  | glottocode       | glottocode                     |
+| 4  | iso      | ISO code                     |
+| 5  | word_forms       | word forms                    |
+| 6  | colexification_type        | type of colexification                    |
+| 7  | source_domain          | semantic domain of the source concept                  |
+| 8  | target_domain     | semantic domain of the target concept                |
+| 9  | source_concept_ID      | WordNet 3.0 ID of the source concept|
+| 10 | target_concept_ID      | WordNet 3.0 ID of the target concept |
+| 11 | source_concept_definition  | WordNet definition of the source concept  |
+| 12 | target_concept_definition | WordNet definition of the target concept   |
+| 13 | source_translation_in_English | English translation of the source concept |
+| 14 | target_translation_in_English | English translation of the target concept |
+| 15 | macro_area       | macro area of the language according to Glottolog          |
+| 16 | language_family       | language family of the language according to Glottolog          |
+| 17 | latitude       | latitude of the language according to Glottolog          |
+| 18 | longitude      | longitude of the language according to Glottolog          |
 
 ## Reference
 ```
