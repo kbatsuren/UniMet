@@ -23,10 +23,10 @@ The presence of metonymy in world’s languages (the same colors indicate the sa
 | 12 | target_concept_definition | WordNet definition of the target concept   |
 | 13 | source_translation_in_English | English translation of the source concept |
 | 14 | target_translation_in_English | English translation of the target concept |
-| 15 | macro_area       | macro area of the language according to Glottolog          |
-| 16 | language_family       | language family of the language according to Glottolog          |
-| 17 | latitude       | latitude of the language according to Glottolog          |
-| 18 | longitude      | longitude of the language according to Glottolog          |
+| 15 | macro_area       | macro area of the language according to Glottolog 5.2         |
+| 16 | language_family       | language family of the language according to Glottolog 5.2         |
+| 17 | latitude       | latitude of the language according to Glottolog 5.2         |
+| 18 | longitude      | longitude of the language according to Glottolog 5.2         |
 
 ## Reference
 ```
